@@ -1,4 +1,3 @@
 # Anonymizer
-A tool to randomize your User-Agent-String.
-This is basically just a proof-of-concept type project at the moment. This program is not recommended
-for everyday use.
+
+Python Tool to hide your User Agent string while browsing. Proof of concept. Developed as part of a highschool examination.
